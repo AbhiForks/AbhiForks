@@ -1,4 +1,4 @@
-Hi, I'm Abhilash! <br><br>I'm a **tech aficionado** passionate about **building and designing sleek, high-performance applications**. My expertise spans **modern web development, generative AI, and blockchain technology**, allowing me to craft intelligent, interactive, and decentralized experiences.  <br><br>🚀 **What I Do:**  <br>- Design and develop **visually appealing, user-friendly frontend applications**  <br>- Experiment with **Generative AI** to push the limits of creativity and automation  <br>- Explore **crypto, smart contracts, and decentralized apps (dApps)** to build the future of Web3  <br><br>🔧 **Tech I Love:**  <br>- **Frontend:** React, Next.js, Tailwind CSS, TypeScript  <br>- **AI & ML:** OpenAI APIs, LangChain, LLM fine-tuning  <br>- **Blockchain:** Solidity, Ethereum, Smart Contracts, Web3.js  <br>- **Other Tools:** Git, Figma, Firebase, Node.js  <br><br>💡 Always learning, always building. Let's create something awesome! 🚀  <br><br><br>
+Hi, I'm Abhilash! <br><br>I'm a **tech aficionado** passionate about **building and designing sleek, high-performance applications**. My expertise spans **modern web development, generative AI, and blockchain technology**, allowing me to craft intelligent, interactive, and decentralized experiences.  <br><br>🚀 **What I Do:**  <br>- Design and develop **visually appealing, user-friendly frontend applications**  <br>- Experiment with **Generative AI** to push the limits of creativity and automation  <br>- Explore **crypto, smart contracts, and decentralized apps (dApps)** to build the future of Web3  <br><br>🔧 **Tech I Love:**  <br>- **Frontend:** React, Next.js, Tailwind CSS, TypeScript  <br>- **AI & ML:** OpenAI APIs, LangChain, LLM fine-tuning  <br>- **Blockchain:** Solidity, Ethereum, Smart Contracts, Web3.js  <br>- **Other Tools:** Git, Figma, Firebase, Node.js  <br><br>💡 Always learning, always building 🚀  <br><br><br>
 
 
 ## 🌐 Socials:
@@ -20,4 +20,4 @@ Hi, I'm Abhilash! <br><br>I'm a **tech aficionado** passionate about **building 
 ---
 [![](https://visitcount.itsvg.in/api?id=AbhiForks&icon=2&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
